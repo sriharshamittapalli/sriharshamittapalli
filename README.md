@@ -15,7 +15,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 | [Environmental Monitoring System](https://github.com/sriharshamittapalli/Environmental-Monitoring-System) | [sriharshamittapalli.github.io](https://github.com/sriharshamittapalli/sriharshamittapalli.github.io) |
 | :-: | :-: |
-| <img src="https://via.placeholder.com/500x300?text=Environmental+Monitoring+System" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://via.placeholder.com/500x300?text=Portfolio+Website" width="500" height="300" alt="Portfolio Website"/> |
+| <img src="https://github.com/sriharshamittapalli/Environmental-Monitoring-System/blob/main/images/image.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://via.placeholder.com/500x300?text=Portfolio+Website" width="500" height="300" alt="Portfolio Website"/> |
 
 | [CivilMart](https://github.com/sriharshamittapalli/CivilMart) | [Presidential Speech Data Scraper](https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper) |
 | :-: | :-: |
