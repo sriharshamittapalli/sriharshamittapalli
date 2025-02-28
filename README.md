@@ -15,6 +15,6 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 | [Environmental Monitoring System](https://github.com/sriharshamittapalli/Environmental-Monitoring-System) | [Presidential Speech Data Scraper](https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper) |
 | :-: | :-: |
-| <img src="https://github.com/sriharshamittapalli/Environmental-Monitoring-System/blob/main/images/image.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://via.placeholder.com/500x300?text=Speech+Data+Scraper" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
+| <img src="https://github.com/sriharshamittapalli/Environmental-Monitoring-System/blob/main/images/image.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper/blob/main/presidential.png" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
 
 <hr>
