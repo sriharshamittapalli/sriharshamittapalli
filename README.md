@@ -13,16 +13,8 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 <h2 align="center">🖥 My Projects</h2>
 
-| [Environmental Monitoring System](https://github.com/sriharshamittapalli/Environmental-Monitoring-System) | [sriharshamittapalli.github.io](https://github.com/sriharshamittapalli/sriharshamittapalli.github.io) |
+| [Environmental Monitoring System](https://github.com/sriharshamittapalli/Environmental-Monitoring-System) | [Presidential Speech Data Scraper](https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper) |
 | :-: | :-: |
-| <img src="https://github.com/sriharshamittapalli/Environmental-Monitoring-System/blob/main/images/image.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://via.placeholder.com/500x300?text=Portfolio+Website" width="500" height="300" alt="Portfolio Website"/> |
-
-| [CivilMart](https://github.com/sriharshamittapalli/CivilMart) | [Presidential Speech Data Scraper](https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper) |
-| :-: | :-: |
-| <img src="https://via.placeholder.com/500x300?text=CivilMart" width="500" height="300" alt="CivilMart"/> | <img src="https://via.placeholder.com/500x300?text=Speech+Data+Scraper" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
-
-| [Calculator](https://github.com/sriharshamittapalli/Calculator) | [Weather App](https://github.com/sriharshamittapalli/Weather) |
-| :-: | :-: |
-| <img src="https://via.placeholder.com/500x300?text=Calculator" width="500" height="300" alt="Calculator"/> | <img src="https://via.placeholder.com/500x300?text=Weather+App" width="500" height="300" alt="Weather App"/> |
+| <img src="https://github.com/sriharshamittapalli/Environmental-Monitoring-System/blob/main/images/image.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://via.placeholder.com/500x300?text=Speech+Data+Scraper" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
 
 <hr>
