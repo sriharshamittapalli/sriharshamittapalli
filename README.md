@@ -17,4 +17,8 @@ These valuable tools and techniques have empowered me to successfully develop an
 | :-: | :-: |
 | <img src="https://github.com/sriharshamittapalli/Environmental-Monitoring-System/blob/main/images/image.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper/blob/main/presidential.png" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
 
+| [AWS Idle Resources](https://github.com/sriharshamittapalli/aws-idle-resources) | [Presidential Speech Data Scraper](https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper) |
+| :-: | :-: |
+| <img src="https://github.com/sriharshamittapalli/aws-idle-resources/blob/main/idleresources.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper/blob/main/presidential.png" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
+
 <hr>
