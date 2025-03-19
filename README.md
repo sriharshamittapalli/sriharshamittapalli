@@ -20,6 +20,10 @@ These are the tools and technologies I specialize in:
 | :-: | :-: |
 | <img src="https://github.com/sriharshamittapalli/aws-idle-resources/blob/main/idleresources.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://github.com/sriharshamittapalli/aws-s3-static-website-hosting/blob/main/images/website-live.png" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
 
+| [EC2 based Web Server](https://github.com/sriharshamittapalli/ec2-based-web-server) |  |
+| :-: | :-: |
+| <img src="https://github.com/sriharshamittapalli/ec2-based-web-server/blob/main/screenshots/ec2_image.png" width="500" height="300" alt="EC2 Based Web Server"/> |  |
+
 <h2 align="center">🖥 My Projects</h2>
 
 | [Environmental Monitoring System](https://github.com/sriharshamittapalli/Environmental-Monitoring-System) | [Presidential Speech Data Scraper](https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper) |
