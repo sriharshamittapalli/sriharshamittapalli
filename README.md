@@ -14,14 +14,16 @@ These are the tools and technologies I specialize in:
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
+<h2 align="center">🖥 My AWS Projects</h2>
+
+| [AWS Idle Resources](https://github.com/sriharshamittapalli/aws-idle-resources) | [Host a static website on S3](https://github.com/sriharshamittapalli/aws-s3-static-website-hosting) |
+| :-: | :-: |
+| <img src="https://github.com/sriharshamittapalli/aws-idle-resources/blob/main/idleresources.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://github.com/sriharshamittapalli/aws-s3-static-website-hosting/blob/main/images/website-live.png" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
+
 <h2 align="center">🖥 My Projects</h2>
 
 | [Environmental Monitoring System](https://github.com/sriharshamittapalli/Environmental-Monitoring-System) | [Presidential Speech Data Scraper](https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper) |
 | :-: | :-: |
 | <img src="https://github.com/sriharshamittapalli/Environmental-Monitoring-System/blob/main/images/image.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://github.com/sriharshamittapalli/Presidential-Speech-Data-Scraper/blob/main/presidential.png" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
-
-| [AWS Idle Resources](https://github.com/sriharshamittapalli/aws-idle-resources) | [Host a static website on S3](https://github.com/sriharshamittapalli/aws-s3-static-website-hosting) |
-| :-: | :-: |
-| <img src="https://github.com/sriharshamittapalli/aws-idle-resources/blob/main/idleresources.png" width="500" height="300" alt="Environmental Monitoring System"/> | <img src="https://github.com/sriharshamittapalli/aws-s3-static-website-hosting/blob/main/images/website-live.png" width="500" height="300" alt="Presidential Speech Data Scraper"/> |
 
 <hr>
