@@ -9,6 +9,12 @@ I'm a passionate Software Developer dedicated to building innovative solutions t
 - 🌐 Experienced in modern front-end development using **Angular**, **React**, **TypeScript**, and **JavaScript**.
 - 🔧 Passionate about delivering efficient, secure, and scalable software solutions.
 
+🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include:
+* *AWS Solutions Architect by [__Stephane Maarek__](https://www.udemy.com/topic/aws-certified-solutions-architect-associate/)*
+* *HashiCorp Terraform Associate Certification Course by [__Andrew Brown__](https://www.freecodecamp.org/)*
+* *FinOps Certified Engineer by [__FinOps Foundation__](https://learn.finops.org/)*
+* *The Joy of Computing using Python by [__IIT Ropar__](https://www.iitrpr.ac.in/)*
+
 Core Skills:</h2>
 These are the tools and technologies I specialize in:
 
