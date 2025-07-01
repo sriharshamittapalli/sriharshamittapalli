@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋 I'm Sri Harsha Mittapalli</h1>
 
-I'm a **Full-Stack Developer who specializes in building intelligent, AI-powered applications**. My passion is combining robust backends (**Java**, **Python**), modern front-ends (**TypeScript**, **React**), and scalable cloud-native architectures (**AWS**, **Serverless**, **Docker**) to create complete, end-to-end solutions.
+I'm a **Full-Stack Developer who specializes in building intelligent, AI-powered applications**. My passion is combining robust backends (**Java**, **Python**), modern front-ends (**TypeScript**, **React**), and scalable cloud-native architectures (**AWS**, **Serverless**, **Docker**) to create complete, end-to-end solutions leveraging **Generative AI**, **multi-agent systems**, and **machine learning**.
 
 With a Master's in Computer Science, I focus on transforming complex challenges into impactful software that is not only powerful but also efficient, cost-effective, and ethically responsible.
 
@@ -12,8 +12,8 @@ These projects showcase my ability to architect, build, and deploy full-stack sy
 
 | Project | Key Features & Full-Stack + AI Focus | Technologies |
 | :--- | :--- | :--- |
-| **[Flood-Risk-Predictor](https://github.com/sriharshamittapalli/Flood-Risk-Predictor)** | A complete serverless application providing **real-time risk assessments using a generative AI core**. An end-to-end solution from data ingestion to user-facing alerts. | **Full-Stack:** AWS Lambda, S3, DynamoDB, EventBridge <br/> **AI:** Gemini |
-| **[AI-Accessibility-Advocate-Assistant](https://github.com/sriharshamittapalli/AI-Accessibility-Advocate-Assistant)** | A full application built around an AI assistant for WCAG guidance. Features a **cost-optimized backend** with caching and offline knowledge bases to ensure high availability and low latency. | **Full-Stack:** Python, Caching Layers <br/> **AI:** Gemini, RAG |
+| **[Flood-Risk-Predictor](https://github.com/sriharshamittapalli/Flood-Risk-Predictor)** | A complete serverless application providing **real-time risk assessments using a generative AI core**. An end-to-end solution from data ingestion to user-facing alerts. | **Full-Stack:** AWS Lambda, S3, DynamoDB, EventBridge <br/> **AI:** Generative AI (Gemini) |
+| **[AI-Accessibility-Advocate-Assistant](https://github.com/sriharshamittapalli/AI-Accessibility-Advocate-Assistant)** | A full application built around an AI assistant for WCAG guidance. Features a **cost-optimized backend** with caching and offline knowledge bases to ensure high availability and low latency. | **Full-Stack:** Python, Caching Layers <br/> **AI:** RAG, Gemini |
 | **[multi-protocol-api-devops](https://github.com/sriharshamittapalli/multi-protocol-api-devops)** | Demonstrates deep **full-stack backend expertise** by unifying REST, GraphQL, gRPC, and WebSockets. The CI/CD pipeline ensures the robust deployment foundation needed for any serious application. | **Full-Stack:** Java, Spring Boot, Docker, K8s, Terraform, Jenkins |
 | **[AI-Grocery-Recommendation](https://github.com/sriharshamittapalli/AI-Grocery-Recommendation)**| An intelligent application using a **multi-agent AI system** to optimize shopping. This project showcases the integration of complex AI logic into a user-focused, practical tool. | **Full-Stack:** Google Cloud ADK, Python <br/> **AI:** Multi-Agent Systems|
 
@@ -32,6 +32,12 @@ I actively participate in hackathons to rapidly prototype ideas and collaborate 
 
 ## 🛠️ Core Technologies
 
+### 🤖 AI & Machine Learning
+- **Generative AI & LLMs:** Large Language Models (LLMs), Generative AI, Retrieval-Augmented Generation (RAG), Fine-Tuning, Multi-Agent Systems
+- **Frameworks & Tools:** Langchain, Google Cloud Agent Development Kit (ADK), OpenAI API, Google Gemini
+- **ML Concepts:** Natural Language Processing (NLP), Data Engineering (ETL), Web Scraping, Foundational ML Models
+
+### 💻 Languages, Frameworks & Cloud
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
