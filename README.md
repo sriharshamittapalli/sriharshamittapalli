@@ -1,8 +1,4 @@
-<h1 align="center">Hello there 👋 I'm Sri Harsha Mittapalli</h1>
-
-I am a software developer. I specialize in building full stack applications and ai solutions. I love to build 0 -> 1 products, ship them in real time and iterate faster.
-
----
+Hello there, I am Harsha, a software developer. I specialize in building full stack applications and ai solutions. I love to build 0 -> 1 products, ship them in real time and iterate faster.
 
 ## 🚀 Featured Projects: Full-Stack AI & Cloud-Native Solutions
 
