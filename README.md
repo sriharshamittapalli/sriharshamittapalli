@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋 I'm Sri Harsha Mittapalli</h1>
 
-I'm a **Full Stack AI Engineer who specializes in building intelligent, AI-powered applications**. My passion is combining robust backends (**Java**, **Python**), modern front-ends (**TypeScript**, **React**), and scalable cloud-native architectures (**AWS**, **Serverless**, **Docker**) to create complete, end-to-end solutions leveraging **Generative AI**, **multi-agent systems**, and **machine learning**.
-
-With a Master's in Computer Science, I focus on transforming complex challenges into impactful software that is not only powerful but also efficient, cost-effective, and ethically responsible.
+I am a software developer. I specialize in building full stack applications and ai solutions. I love to build 0 -> 1 products, ship them in real time and iterate faster.
 
 ---
 
