@@ -3,6 +3,4 @@ Hello there, I am Harsha, a software developer. I specialize in building full st
 ## 📫 Let's Connect
 I'm always open to collaborating on interesting projects or discussing new ideas.
 
----
-
 ⭐ If you find my work interesting, please consider starring my projects! ⭐
